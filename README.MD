@@ -1,4 +1,4 @@
-# MenziCrack Chiropractic Website - WEDE5020 POE Part 2Student: Luyolweni (MenziCrack Content)Module: WEDE5020
+# MenziCrack Chiropractic Website - WEDE5020 POE Part 2Student: Luyolo Menziwa (MenziCrack Content)Module: WEDE5020
 ## Project OverviewMenziCrack is a fictional chiropractic clinic based in 160 Sir Lowry Road, Cape Town. This website is created for educational purposes for WEDE5020 Part 2 assignment. The site includes Home, About, Services, Enquiry & FAQ, and References.
 Live Site: [Your GitHub Pages link here after you push]
 ## Part 2 Changes Log - What I Changed From Part 1
