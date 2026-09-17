@@ -42,7 +42,7 @@ img { max-width: 100%; height: auto; display: block; margin-top: 1rem; border-ra
 
 .gallery img { height: 150px; object-fit: cover; border: 1px solid #ccc; }
 
-@media (max-width: 768px) { 
+@media (max-width: 600px) { 
     header { text-align: center; }
     nav { justify-content: center; }
 }
@@ -60,3 +60,14 @@ img { max-width: 100%; height: auto; display: block; margin-top: 1rem; border-ra
     height: 200px;
   }
 }
+table {
+    width: 100% !important;
+    font-size: 13px !important;
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+  table td, table th {
+    padding: 8px 5px !important;
+    font-size: 13px;
+  }
